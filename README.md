@@ -2,7 +2,7 @@
 System for Inputting a CSV file to a MySQL database through an HTML interface.<br />
 
 The current goals of this project are:<br />
-  <ul style="list-style:hide;">
+  <ul style="list-style-type:hide;">
   <li>a) To create a web interface for uploading CSV files to a pre-existing MySQL database</li>
   <li>b) Style the input and output form using Bootstrap.</li>
      <ul>
