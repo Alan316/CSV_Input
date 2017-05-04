@@ -1,7 +1,7 @@
 # CSV_Input
-System for Inputting a CSV file to a MySQL database through an HTML interface.
+System for Inputting a CSV file to a MySQL database through an HTML interface.<br />
 
-The current goals of this project are:
+The current goals of this project are:<br/>
   a) To create a web interface for uploading CSV files to a pre-existing MySQL database  
   b) Style the input and output form using Bootstrap. 
      1) Make the output responsive.
